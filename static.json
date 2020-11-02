@@ -2,6 +2,7 @@
   "headers":{
     "/*": {
       "X-Author": "sergeiorlov4"
+      "Another one": "header!!!"
     }
   }
 }
