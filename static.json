@@ -2,7 +2,7 @@
   "headers":{
     "/*": {
       "X-Author": "sergeiorlov4",
-      "Another one": "header!!!"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
